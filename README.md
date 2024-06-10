@@ -154,6 +154,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please reach out to [your.email@example.com](mailto:your.email@example.com).
 
----
-
-Feel free to adapt the content to fit the specifics and nuances of your project.
+--
